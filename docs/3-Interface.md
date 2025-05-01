@@ -12,7 +12,9 @@
 
 ## Wireframes
 
-![Exemplo de Wireframe](images/wireframe-example.png)
+(images/homepage fundamentos - carol.png)
+(images/interface sistema - carol.png)
+(images/interface sistema calculadora - carol.png)
 
 > São protótipos usados em design de interface para sugerir a
 > estrutura de um site web e seu relacionamentos entre suas
