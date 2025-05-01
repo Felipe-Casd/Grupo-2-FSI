@@ -10,8 +10,10 @@
 ## Participantes
 
 Os membros do grupo são: 
-- Fulano da Silva
-- Ciclano Albuquerque
+- Felipe de Sousa Chaves
+- Carolina Torres Miglio
+- Guilherme
+- Pedro Canuto
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
 
