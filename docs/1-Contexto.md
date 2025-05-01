@@ -15,7 +15,20 @@ compra e o uso da matéria-prima, que pode levar a um excesso de estoque e ao
 desperdício dos tecidos, aumentando custos desnecessários, já que pequenas
 fábricas muitas vezes não possuem ferramentas adequadas para fazer esse
 controle, o que compromete tanto a sustentabilidade quanto a economia para a
-empresa.
+empresa. O sistema ajudará as fábricas a
+calcularem de forma simples e mais precisa a quantidade exata de matéria-prima
+necessária, com base nos pedidos recebidos, garantindo um uso mais eficiente
+dos materiais. Com isso, ajudará a planejar uma melhor produção, evitando o
+excesso de estoque e tornando o processo mais organizado sustentavelmente. 
+
+O público-alvo do sistema é composto por dois grupos principais de usuários:
+Negócios Familiares – Pequenas confecções administradas por famílias
+que não possuem tecnologia avançada para gerenciar estoques e
+compras.
+Startups e Pequenas Marcas de Moda Sustentável – Empresas
+emergentes focadas em moda ecológica que precisam otimizar o uso de
+matéria-prima para manter seus princípios sustentáveis e reduzir perdas
+financeiras.
 
 A expectativa é que este projeto contribua significativamente para a formação acadêmica e profissional dos envolvidos, promovendo um ambiente de aprendizado dinâmico e a troca de experiências entre estudantes, professores e a comunidade beneficiada.
 
