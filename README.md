@@ -12,8 +12,8 @@
 Os membros do grupo são: 
 - Felipe de Sousa Chaves
 - Carolina Torres Miglio
-- Guilherme
-- Pedro Canuto
+- Guilherme Henrique Silva Souza
+- Pedro Henrique Canuto
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
 
