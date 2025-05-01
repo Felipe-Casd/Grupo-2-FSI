@@ -26,6 +26,7 @@ O público-alvo do sistema é composto por dois grupos principais de usuários:
 Negócios Familiares – Pequenas confecções administradas por famílias
 que não possuem tecnologia avançada para gerenciar estoques e
 compras.
+
 Startups e Pequenas Marcas de Moda Sustentável – Empresas
 emergentes focadas em moda ecológica que precisam otimizar o uso de
 matéria-prima para manter seus princípios sustentáveis e reduzir perdas
