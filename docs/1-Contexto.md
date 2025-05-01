@@ -22,6 +22,7 @@ dos materiais. Com isso, ajudará a planejar uma melhor produção, evitando o
 excesso de estoque e tornando o processo mais organizado sustentavelmente. 
 
 O público-alvo do sistema é composto por dois grupos principais de usuários:
+
 Negócios Familiares – Pequenas confecções administradas por famílias
 que não possuem tecnologia avançada para gerenciar estoques e
 compras.
