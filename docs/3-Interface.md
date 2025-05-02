@@ -13,7 +13,7 @@
 ## Wireframes
 
 ![Home do projeto](images/1homepage.png)
-![Interface do sistema](images/interface.png)
+![Interface do sistema](images/3menusistema.png)
 ![Calculadora](images/2sistemacalculadora.png)
 
 > São protótipos usados em design de interface para sugerir a
