@@ -3,26 +3,21 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação.md"> Documentação de Especificação</a></span>
 
-> Apresente as principais a interface da plataforma. Discuta como ela
-> foi elaborada de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
+> O design e template do nosso wireframe foi desenvolvido através do Photoshop,
+> englobando os requisitos do sistema utilizado (MRP),
+> atendendo os principais recursos para pequenas empresas ou pequenos fabricantes que
+> querem simular o preço de forma rápida e sustentável da sua produção de roupas.
+> 
 > Projeto](2-Especificação.md).
 
 
-
 ## Wireframes
-
+*Figura 1 - Página inicial do sistema*
 ![Home do projeto](images/1homepage.png)
-![Interface do sistema](images/3menusistema.png)
-![Calculadora](images/2sistemacalculadora.png)
 
-> São protótipos usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante do
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Balsamiq](https://balsamiq.com/)
+*Figura 2 - Interface do Menu com as Opções do Sistema*
+![Interface do sistema](images/3menusistema.png)
+
+*Figura 3 - Página da Calculadora*
+![Calculadora](images/2sistemacalculadora.png)
 
