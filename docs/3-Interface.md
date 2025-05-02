@@ -12,7 +12,7 @@
 
 ## Wireframes
 
-<img src = "(images/homepage fundamentos - carol.png)"
+![Home do projeto](images/homepage fundamentos - carol.png)
 (images/interface sistema - carol.png)
 (images/interface sistema calculadora - carol.png)
 
