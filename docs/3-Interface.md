@@ -12,9 +12,9 @@
 
 ## Wireframes
 
-![Home do projeto](images/homepagefundamentoscarol.png)
+![Home do projeto](docs/images/1homepage.png)
 ![Interface do sistema](images/interface.png)
-![Calculadora](images/sistema.png)
+![Calculadora](docs/images/2sistemacalculadora.png)
 
 > São protótipos usados em design de interface para sugerir a
 > estrutura de um site web e seu relacionamentos entre suas
