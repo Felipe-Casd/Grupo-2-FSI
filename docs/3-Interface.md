@@ -12,7 +12,7 @@
 
 ## Wireframes
 
-![Home do projeto](images/homepage fundamentos - carol.png)
+![Home do projeto](images/homepagefundamentoscarol.png)
 ![Interface do sistema](images/interface.png)
 ![Calculadora](images/sistema.png)
 
